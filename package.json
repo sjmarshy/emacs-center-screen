@@ -1,14 +1,15 @@
 {
   "name": "emacs-center-screen",
   "main": "./lib/emacs-center-screen",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "activationEvents": ["emacs-center-screen:center-screen"],
+  "activationEvents": [
+    "emacs-center-screen:center-screen"
+  ],
   "repository": "https://github.com/sjmarshy/emacs-center-screen",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

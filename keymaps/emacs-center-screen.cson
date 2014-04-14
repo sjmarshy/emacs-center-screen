@@ -8,4 +8,4 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/advanced/keymaps
 '.editor':
-  'ctrl-l': 'emacs-style-center-screen:center-screen'
+  'ctrl-l': 'emacs-center-screen:center-screen'
